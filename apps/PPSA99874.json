@@ -4,7 +4,7 @@
   "kind": "game",
   "category": "pc-ports",
   "description": "Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.",
-  "license": "Unlicensed",
+  "license": "GPL-3.0-or-later",
   "author": "mateo-cogeanu",
   "version": "01.000.082",
   "source_repo": "https://github.com/mateo-cogeanu/ProsperoCraft",
